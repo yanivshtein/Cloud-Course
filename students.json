@@ -1,47 +1,8 @@
-{
-  "students": [
-    {
-      "name": "Eden Moshe",
-      "id": "207730391",
-      "email": "Eden.Moshe@e.braude.ac.il",
-      "fields": ["Cloud", "Web", "AI", "Compilation", "Physics"],
-      "link": "https://www.youtube.com/watch?v=KNtJGQkC-WI&pp=ygUSd2UgY2FudCBiZSBmcmllbmRz",
-      "favorite_show": "Game of Thrones"
-    },
-    {
-      "name": "Yaniv Shtein",
-      "id": "207656356",
-      "email": "Yaniv.Shtein@e.braude.ac.il",
-      "fields": ["Cloud", "Web", "AI", "Compilation", "Physics"],
-      "link": "https://www.youtube.com/watch?v=3YxaaGgTQYM&pp=ygUIZXZlbm5lc3M%3D"
-    },
-    {
-      "name": "Sheli Zisman",
-      "id": "315489971",
-      "email": "Sheli.Zisman@e.braude.ac.il",
-      "fields": ["Cloud", "Web", "AI", "Compilation", "Physics"],
-      "link": "https://chatgpt.com/"
-    },
-    {
-      "name": "Shalev Cohen",
-      "id": "207534728",
-      "email": "Shalev.Cohen@e.braude.ac.il",
-      "fields": ["Cloud", "Web", "AI", "Compilation", "Physics"],
-      "link": "https://github.com/"
-    },
-    {
-      "name": "Ron Korointoro",
-      "id": "315487603",
-      "email": "Ron.Kroitoro@e.braude.ac.il",
-      "fields": ["Cloud", "Web", "AI", "Compilation", "Physics"],
-      "link": "https://leetcode.com/"
-    },
-    {
-      "name": "Bari Cohen",
-      "id": "315282772",
-      "email": "Bari.Cohen@e.braude.ac.il",
-      "fields": ["Cloud", "Web", "AI", "Compilation", "Physics"],
-      "link": "https://www.google.co.il/?hl=iw"
-    }
-  ]
-}
+[
+{"firstName": "Shalev", "lastName": "Cohen", "email": "shalev.cohen@e.braude.ac.il", "courses": "Algebra", "link": "https://www.youtube.com/watch?v=3oem-M2tQU4" },
+{"firstName": "Bari", "lastName": "Cohen", "email": "bari.cohen@e.braude.ac.il", "courses": "Tennis", "link": "https://www.youtube.com/watch?v=gZiuvUoFSJo" },
+{"firstName": "Ron", "lastName": "Kroitoro", "email": "ron.kroitoro@e.braude.ac.il", "courses": "Architechture", "link": "https://www.youtube.com/watch?v=Wde60tGdq3Q" },
+{"firstName": "Sheli", "lastName": "Zisman", "email": "sheli.zisman@e.braude.ac.il", "courses": "Calculus", "link": "https://www.youtube.com/watch?v=dK9yCOQu0wM" },
+{"firstName": "Eden", "lastName": "Moshe", "email": "eden.moshe@e.braude.ac.il", "courses": "Cloud Computing", "link": "https://www.youtube.com/watch?v=mwwbhB34iQU" },
+{"firstName": "Yaniv", "lastName": "Shtein", "email": "yaniv.shtein@e.braude.ac.il", "courses": "Computer Science", "link": "https://www.youtube.com/watch?v=WXLIBLP0ooE" },
+]
